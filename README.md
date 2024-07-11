@@ -1,4 +1,4 @@
-README:
+
 **OVERVIEW**
 
 The project focuses on developing a secure and efficient password manager to address the problem of weak and easily guessable passwords. The password manager will help users generate and store strong passwords securely, leveraging cryptographic primitives discussed in the course.It demonstrates the use of various cryptographic primitives such as authenticated encryption and collision-resistant hash functions, utilizing the SubtleCrypto library for implementation.
